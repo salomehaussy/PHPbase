@@ -1,0 +1,14 @@
+table{
+    background-color: black;
+    color: #d0d0d0;
+
+}
+
+tr{
+    padding: 10px;
+    background-color: #3d3b3b;
+}
+
+td{
+    padding: 7px;
+}
